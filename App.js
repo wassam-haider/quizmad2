@@ -1,3 +1,9 @@
+// -------------------------*********commands*********-----------------------------------------
+// npm install
+// npm install -g expo-cli
+// npx expo install react-dom react-native-web
+// npx expo start
+// ------------------------------------------------------------------------
 // import { StatusBar } from 'expo-status-bar';
 // import { StyleSheet, Text, View } from 'react-native';
 
